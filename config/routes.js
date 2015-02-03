@@ -4,7 +4,10 @@
  */
 
 var mongoose = require('mongoose');
+
+// API Handlers
 var home = require('home');
+var brew = require('brew');
 
 /**
  * Expose
@@ -13,6 +16,8 @@ var home = require('home');
 module.exports = function (app, passport) {
 
   app.get('/', home.index);
+  app.get('/brew', brew.list)
+  app.get('/brew/info', brew.info)
 
   /**
    * Error handling
