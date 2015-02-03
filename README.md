@@ -1,24 +1,12 @@
 [![Build Status](https://img.shields.io/travis/madhums/node-express-mongoose.svg?style=flat)](https://travis-ci.org/madhums/node-express-mongoose)
-[![Gittip](https://img.shields.io/gratipay/madhums.svg?style=flat)](https://www.gratipay.com/madhums/)
-[![Dependencies](https://img.shields.io/david/madhums/node-express-mongoose.svg?style=flat)](https://david-dm.org/madhums/node-express-mongoose)
+[![Gittip](https://img.shields.io/gratipay/drmadskills.svg?style=flat)](https://www.gratipay.com/drmadskills/)
 
 
-## Node Express Mongoose
+## Beerfest App
 
-A boilerplate application for building web apps using express, mongoose and passport.
+Simple beerfest application to list breweries beers and food vendors overlaid on a venue map.
 
-Read the [wiki](https://github.com/madhums/node-express-mongoose/wiki) to understand how the application is structured.
-
-## Installation and Usage
-    
-    $ git clone https://github.com/madhums/node-express-mongoose.git
-    $ cd node-express-mongoose
-    $ npm install
-    $ npm start
-
-Add routes (`config/routes.js`), create models (`app/models/`), views (`app/views/`) and controllers (`app/controllers/`).
-
-Checkout the [apps that are built using this approach](https://github.com/madhums/node-express-mongoose/wiki/Apps-built-using-this-approach)
+More to come as this app progresses.
 
 ## License
 

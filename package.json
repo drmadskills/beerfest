@@ -1,10 +1,10 @@
 {
-  "name": "node-express-mongoose",
-  "description": "A boilerplate application for express mongoose",
-  "version": "1.0.0",
+  "name": "beerfest",
+  "description": "Simple beerfest application to list breweries beers and food vendors overlaid on a venue map",
+  "version": "0.1.0",
   "author": {
-    "name": "Madhusudhan Srinivasa",
-    "email": "me@madhums.me"
+    "name": "Philip O'Brien",
+    "email": "philip.j.obrien@gmail.com"
   },
   "engines": {
     "node": "0.10.x"
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/madhums/node-express-mongoose.git"
+    "url": "git://github.com/drmadskills/beerfest.git"
   },
   "keywords": [
-    "mvc",
-    "boilerplate"
+    "beer",
+    "beerfest"
   ]
 }
